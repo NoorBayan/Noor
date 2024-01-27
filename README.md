@@ -194,8 +194,18 @@ We use the following notebooks for Noor
 
 ### Mobile APP 
 
-We developed an Mobile app that interacts with the server
+Two mobile applications have been developed to promote the Quranic learning and understanding among non-Arabic speaking and children :
 
+
+- The first application, Bian, is designed to provide a comprehensive and interactive experience for non-Arabic speaking  to learn the Quran.
+ <p align="center"> 
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Noor/main/image/BianApp.jpg" width = "800px"/>
+ </p>
+ 
+
+- The second application, Noor, is designed to help children understand the Quranic values and apply them in their daily lives.
+
+https://raw.githubusercontent.com/NoorBayan/Noor/main/image/NoorApp.mp4
 
 
 
