@@ -204,6 +204,11 @@ Two mobile applications have been developed to promote the Quranic learning and 
  
 
 - The second application, Noor, is designed to help children understand the Quranic values and apply them in their daily lives.
+<p align="center"> 
+ <img src = "https://raw.githubusercontent.com/NoorBayan/Noor/main/image/NoorApp.jpg" width = "800px"/>
+ </p>
+
+
 
 https://raw.githubusercontent.com/NoorBayan/Noor/main/image/NoorApp.mp4
 
