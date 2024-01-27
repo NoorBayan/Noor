@@ -1,0 +1,58 @@
+name: dictionary
+description: A new Flutter project.
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  lottie:
+  animated_text_kit:
+  flutter_bloc:
+  font_awesome_flutter :
+  sqflite:
+  flutter_screenutil:
+  flutter_localization:
+  flutter_native_splash:
+  path_provider:
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/Animation/
+    - assets/Icon/
+    - assets/Image/
+    - assets/kidDB.db
+
+#---------------------------------------------------
+  fonts:
+    - family: Blabeloo
+      fonts:
+         - asset: fonts/Blabeloo-font-v.1.0.ttf
+
+    - family: Bahij
+      fonts:
+        - asset: fonts/Bahij TheSansArabic Bold.ttf
+
