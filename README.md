@@ -214,19 +214,3 @@ https://raw.githubusercontent.com/NoorBayan/Noor/main/image/NoorApp.mp4
 
 
 
-## Citation
-pre-prossing
-
-```
-@misc{noor2024,
-  author = {Wadee Alqubaty, Abdulqadir Alabadi, Asmaa Alshrgabi, Mouhammed kidr},
-  title = {Noor: Classical Arabic Treebank Extending},
-  title = {Bayan: A Pipeline model for classical Arabic Parsing},
-  title = {Quranic: Dataset for Classical Arabic Processing},
-  title = {IIrab: A New Visualization of Classical Arabic Grammar},
-  year = {2024},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/NoorBayan/}}
-}
-
